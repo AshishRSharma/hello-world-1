@@ -1,8 +1,8 @@
 # hello-world
-first ever repo
-
-Hi guys,
-
-This is Vivek from India.
-This is my very first git repo. Looking forward to good open source contribution.
-See you.
+#include <stdio.h>
+int main(void)
+{
+  printf("Hello, World.");
+  printf("This is Vivek and you are into my very first repo.Thank you.");
+  return 0;
+}
