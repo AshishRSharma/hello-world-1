@@ -1,3 +1,7 @@
+/*
+Author : Vivek Vikram Singh
+Date : 19.02.2016
+*/
 #include <iostream>
 using namespace std;
 
